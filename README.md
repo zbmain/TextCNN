@@ -14,7 +14,7 @@ torchtext==0.4.0
 `python main.py -train`
 
 # Test
-`python main.py -test -snapshot snapshot/best_steps_400.pt`
+`python main.py -test -snapshot *.pt`
 
 # Predict
-`python main.py -predict -snapshot snapshot/best_steps_400.pt`
+`python main.py -predict -snapshot *.pt`
