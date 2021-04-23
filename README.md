@@ -1,6 +1,6 @@
 # TextCNN
 
-TextCNN 模型代码
+TextCNN 模型代码:baseline
 
 实现基于：
 [https://github.com/Shawn1993/cnn-text-classification-pytorch](https://github.com/Shawn1993/cnn-text-classification-pytorch)
